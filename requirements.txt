@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+jieba
+streamlit
+Flask
+requests
+numpy
+matplotlib
+seaborn
+torch
+transformers
+tqdm
